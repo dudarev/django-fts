@@ -1,3 +1,17 @@
+This is the for of django-fts
+
+<http://code.google.com/p/django-fts>
+
+All the modification to fix issue #7 there are made.
+
+<http://code.google.com/p/django-fts/issues/detail?id=7>
+
+To include with pip in virtualenv add the following line to `requirements.txt`
+
+```
+-e git+https://github.com/dudarev/django-fts#egg=fts
+```
+
 ==========
 django-fts
 ==========
