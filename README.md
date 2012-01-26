@@ -1,4 +1,4 @@
-This is the for of django-fts
+This is the fork of django-fts
 
 <http://code.google.com/p/django-fts>
 
