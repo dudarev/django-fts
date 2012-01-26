@@ -12,9 +12,7 @@ To include with pip in virtualenv add the following line to `requirements.txt`
 -e git+https://github.com/dudarev/django-fts#egg=fts
 ```
 
-==========
-django-fts
-==========
+## django-fts
 
 This is a generic Full Text Search engine for Django projects.
 
